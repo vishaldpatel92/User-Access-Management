@@ -1,0 +1,17 @@
+/Users/vishal/Projects/User-Access-Management/src/main/java/com/vishal/UserAccessManagement/repository/RoleRepository.java
+/Users/vishal/Projects/User-Access-Management/src/main/java/com/vishal/UserAccessManagement/repository/ProductRepository.java
+/Users/vishal/Projects/User-Access-Management/src/main/java/com/vishal/UserAccessManagement/model/Product.java
+/Users/vishal/Projects/User-Access-Management/src/main/java/com/vishal/UserAccessManagement/exception/ProductNotFoundException.java
+/Users/vishal/Projects/User-Access-Management/src/main/java/com/vishal/UserAccessManagement/controller/ProductController.java
+/Users/vishal/Projects/User-Access-Management/src/main/java/com/vishal/UserAccessManagement/UserAccessManagementApplication.java
+/Users/vishal/Projects/User-Access-Management/src/main/java/com/vishal/UserAccessManagement/authentication/CustomAuthenticationProvider.java
+/Users/vishal/Projects/User-Access-Management/src/main/java/com/vishal/UserAccessManagement/config/LogoutConfig.java
+/Users/vishal/Projects/User-Access-Management/src/main/java/com/vishal/UserAccessManagement/config/WebSecurityConfig.java
+/Users/vishal/Projects/User-Access-Management/src/main/java/com/vishal/UserAccessManagement/controller/UserController.java
+/Users/vishal/Projects/User-Access-Management/src/main/java/com/vishal/UserAccessManagement/exception/ProductNotFoundAdvice.java
+/Users/vishal/Projects/User-Access-Management/src/main/java/com/vishal/UserAccessManagement/exception/UserNotFoundException.java
+/Users/vishal/Projects/User-Access-Management/src/main/java/com/vishal/UserAccessManagement/service/UserDetailsServiceImpl.java
+/Users/vishal/Projects/User-Access-Management/src/main/java/com/vishal/UserAccessManagement/model/User.java
+/Users/vishal/Projects/User-Access-Management/src/main/java/com/vishal/UserAccessManagement/model/Role.java
+/Users/vishal/Projects/User-Access-Management/src/main/java/com/vishal/UserAccessManagement/repository/UserRepository.java
+/Users/vishal/Projects/User-Access-Management/src/main/java/com/vishal/UserAccessManagement/exception/UserNotFoundAdvice.java
